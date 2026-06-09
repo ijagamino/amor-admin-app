@@ -15,6 +15,13 @@
       "when": 1780921246878,
       "tag": "0001_faulty_psynapse",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781006021388,
+      "tag": "0002_marvelous_sunfire",
+      "breakpoints": true
     }
   ]
 }
