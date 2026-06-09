@@ -1,11 +1,8 @@
 export * from "./session-schema";
 export * from "./app-configurations-schema";
 export * from "./activity-logs-schema";
-// export * from "./orders-schema";
 export * from "./products-schema";
 export * from "./variants-schema";
-// export * from "./product-orders-schema";
 export * from "./sales-snapshots-schema";
-export * from "./restock-recommendations-schema";
 export * from "./purchase-orders-schema";
 export * from "./purchase-order-items-schema";
